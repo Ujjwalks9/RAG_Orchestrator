@@ -1,0 +1,33 @@
+{
+    "name": "sample_workflow2",
+    "steps": [
+        {
+            "agent": "sample_agent2",
+            "action": "Invalid Endpoint",
+            "input": {
+                "input1": "test"
+            }
+        },
+        {
+            "agent": "sample_agent3.json",
+            "action": "Invalid Endpoint",
+            "input": {
+                "input1": "test"
+            }
+        },
+        {
+            "agent": "sample_agent4.json",
+            "action": "Invalid Endpoint",
+            "input": {
+                "input1": "test"
+            }
+        },
+        {
+            "agent": "sample_agent5.json",
+            "action": "Invalid Endpoint",
+            "input": {
+                "input1": "test"
+            }
+        }
+    ]
+}

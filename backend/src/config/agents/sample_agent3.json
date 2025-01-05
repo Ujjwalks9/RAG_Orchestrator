@@ -1,0 +1,1 @@
+{"name": "sample_agent3", "endpoints": {"http://localhost:3000/user/books": {"method": "POST", "input_schema": {"type": "object", "properties": {"input1": {"type": "string"}}}, "output_schema": {"type": "object", "properties": {"output1": {"type": "string"}}}}}}

@@ -1,0 +1,26 @@
+{
+    "name": "sample_check",
+    "steps": [
+        {
+            "agent": "sample_agent5",
+            "action": "Invalid Endpoint",
+            "input": {
+                "input1": "test"
+            }
+        },
+        {
+            "agent": "sample_agent3.json",
+            "action": "Invalid Endpoint",
+            "input": {
+                "input1": "test"
+            }
+        },
+        {
+            "agent": "sample_agent5.json",
+            "action": "Invalid Endpoint",
+            "input": {
+                "input1": "test"
+            }
+        }
+    ]
+}
